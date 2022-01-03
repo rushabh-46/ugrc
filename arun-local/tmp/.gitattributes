@@ -1,0 +1,4 @@
+apache-ant-1.9.9 filter=lfs diff=lfs merge=lfs -text
+apache-ant-1.9.9-bin.tar.gz filter=lfs diff=lfs merge=lfs -text
+jdk1.8.0_151 filter=lfs diff=lfs merge=lfs -text
+jdk-8u151-linux-x64.tar.gz filter=lfs diff=lfs merge=lfs -text
